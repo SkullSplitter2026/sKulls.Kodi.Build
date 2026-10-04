@@ -1,0 +1,1072 @@
+{
+ "format": 1,
+ "id": "skulls-kodi-build-private",
+ "name": "sKulls Kodi Build Private",
+ "version": "1.10",
+ "kodi": "21",
+ "built": "2026-10-05 00:52",
+ "wizard": "plugin.program.skullskodiwizard",
+ "wizard_version": "1.0.25",
+ "skin": "skin.arctic.zephyr.martian",
+ "files": 19382,
+ "size": 1051701889,
+ "addons": [
+  {
+   "id": "service.subtitles.a4ksubtitles",
+   "name": "a4kSubtitles",
+   "version": "3.24.2",
+   "provider": "Unknown",
+   "type": "Untertitel"
+  },
+  {
+   "id": "script.module.accountmgr",
+   "name": "Account Manager Testing",
+   "version": "4.2",
+   "provider": "Zaxxon709, Diggz",
+   "type": "Dienst"
+  },
+  {
+   "id": "script.module.acctvwr",
+   "name": "Account Viewer",
+   "version": "1.1.4",
+   "provider": "Zaxxon709",
+   "type": "Plugin"
+  },
+  {
+   "id": "script.module.acctview",
+   "name": "acctviewer",
+   "version": "2.5",
+   "provider": "Zaxxon709",
+   "type": "Plugin"
+  },
+  {
+   "id": "script.module.addon.signals",
+   "name": "Addon Signals",
+   "version": "0.0.6+matrix.1",
+   "provider": "Rick Phillips (ruuk)",
+   "type": "Modul"
+  },
+  {
+   "id": "script.module.resolveurl.xxx",
+   "name": "Adult Resolver SMR Extension",
+   "version": "2.1.43",
+   "provider": "gujal",
+   "type": "Modul"
+  },
+  {
+   "id": "plugin.video.All.Kinds.of.Music",
+   "name": "All Kinds of Music",
+   "version": "21.1.7",
+   "provider": "MICLIER/A",
+   "type": "Plugin"
+  },
+  {
+   "id": "skin.arctic.zephyr.martian",
+   "name": "Arctic: Zephyr (martian)",
+   "version": "3.20.2",
+   "provider": "jurialmunkey, beatmasterrs, martian89",
+   "type": "Skin"
+  },
+  {
+   "id": "script.module.astral",
+   "name": "astral",
+   "version": "3.2",
+   "provider": "semool",
+   "type": "Modul"
+  },
+  {
+   "id": "plugin.program.autocompletion",
+   "name": "AutoCompletion for virtual keyboard",
+   "version": "2.1.3",
+   "provider": "Philipp Temminghoff (phil65), sualfred, xulek, finkleandeinhorn",
+   "type": "Programm"
+  },
+  {
+   "id": "script.module.autocompletion",
+   "name": "AutoCompletion library",
+   "version": "2.1.1",
+   "provider": "Philipp Temminghoff (phil65), bbaronSVK, finkleandeinhorn, berkhornet",
+   "type": "Modul"
+  },
+  {
+   "id": "script.arctic.zephyr.martian.autocolors",
+   "name": "Automatic Day and Night Colors",
+   "version": "1.0.1",
+   "provider": "semool, martian89",
+   "type": "Programm"
+  },
+  {
+   "id": "script.module.beautifulsoup4",
+   "name": "beautifulsoup4",
+   "version": "4.12.2",
+   "provider": "Leonard Richardson",
+   "type": "Modul"
+  },
+  {
+   "id": "repository.BrazAIO",
+   "name": "BrazAIO Unofficial",
+   "version": "1.2d",
+   "provider": "Brazuca",
+   "type": "Repository"
+  },
+  {
+   "id": "repository.bugatsinho",
+   "name": "Bugatsinho repository",
+   "version": "2.8",
+   "provider": "Bugatsinho",
+   "type": "Repository"
+  },
+  {
+   "id": "script.module.certifi",
+   "name": "certifi",
+   "version": "2023.5.7",
+   "provider": "Certifi",
+   "type": "Modul"
+  },
+  {
+   "id": "script.module.chardet",
+   "name": "chardet",
+   "version": "5.1.0",
+   "provider": "Character Encoding Detector",
+   "type": "Modul"
+  },
+  {
+   "id": "script.module.cloudrequest",
+   "name": "CloudRequest",
+   "version": "1.0.4",
+   "provider": "oneplay team",
+   "type": "Modul"
+  },
+  {
+   "id": "repository.collabsvito",
+   "name": "Collabsvito that's my AiO REPO",
+   "version": "3.6.6",
+   "provider": "Collabsvito",
+   "type": "Repository"
+  },
+  {
+   "id": "script.common.plugin.cache",
+   "name": "Common plugin cache",
+   "version": "3.0.0",
+   "provider": "anxdpanic, TheCollective",
+   "type": "Dienst"
+  },
+  {
+   "id": "game.controller.mouse",
+   "name": "Computer Mouse",
+   "version": "1.0.26",
+   "provider": "Team Kodi",
+   "type": "kodi.game.controller"
+  },
+  {
+   "id": "script.cu.lrclyrics",
+   "name": "CU LRC Lyrics",
+   "version": "6.7.1",
+   "provider": "Taxigps, ronie",
+   "type": "Liedtexte"
+  },
+  {
+   "id": "plugin.video.cumination",
+   "name": "Cumination",
+   "version": "1.1.202",
+   "provider": "Cumination",
+   "type": "Plugin"
+  },
+  {
+   "id": "plugin.video.dailymotion_com",
+   "name": "DailyMotion.com",
+   "version": "2.4.5",
+   "provider": "gujal",
+   "type": "Plugin"
+  },
+  {
+   "id": "game.controller.default",
+   "name": "Default Controller",
+   "version": "1.0.42",
+   "provider": "Team Kodi",
+   "type": "kodi.game.controller"
+  },
+  {
+   "id": "plugin.video.spiegel.de",
+   "name": "DER SPIEGEL",
+   "version": "3.0.8+matrix.1",
+   "provider": "realvito",
+   "type": "Plugin"
+  },
+  {
+   "id": "repository.dexe",
+   "name": "dEXE's Addons Repository",
+   "version": "1.0.11",
+   "provider": "dEXE",
+   "type": "Repository"
+  },
+  {
+   "id": "plugin.video.dfb_tv",
+   "name": "DFB - Sport",
+   "version": "2.1.3+matrix.1",
+   "provider": "realvito",
+   "type": "Plugin"
+  },
+  {
+   "id": "repository.diggz",
+   "name": "Diggz Repository",
+   "version": "28",
+   "provider": "Diggz",
+   "type": "Repository"
+  },
+  {
+   "id": "script.simpleclean",
+   "name": "Diggz Simple Clean",
+   "version": "1.0.12",
+   "provider": "Angelitto, Diggz",
+   "type": "Programm"
+  },
+  {
+   "id": "plugin.video.djplaylist",
+   "name": "DJ-Playlist",
+   "version": "2023.08.24",
+   "provider": "Publish3r",
+   "type": "Plugin"
+  },
+  {
+   "id": "repository.doomzday",
+   "name": "Doomzday Repo",
+   "version": "1.2.3",
+   "provider": "DD Team",
+   "type": "Repository"
+  },
+  {
+   "id": "plugin.video.DreamZBeats",
+   "name": "DreamZBeats",
+   "version": "1.0.7",
+   "provider": "Dreamweaver",
+   "type": "Plugin"
+  },
+  {
+   "id": "plugin.video.f4mTester",
+   "name": "f4mTester",
+   "version": "4.2.5",
+   "provider": "Joel",
+   "type": "Dienst"
+  },
+  {
+   "id": "metadata.common.fanart.tv",
+   "name": "fanart.tv Scraper Library",
+   "version": "3.6.5",
+   "provider": "Team Kodi",
+   "type": "Scraper"
+  },
+  {
+   "id": "plugin.video.filmstarts",
+   "name": "FILMSTARTS.de",
+   "version": "1.1.4+matrix.1",
+   "provider": "realvito",
+   "type": "Plugin"
+  },
+  {
+   "id": "script.module.flask",
+   "name": "Flask",
+   "version": "2.1.3",
+   "provider": "Joel",
+   "type": "Modul"
+  },
+  {
+   "id": "plugin.program.ftp",
+   "name": "Ftp Server",
+   "version": "2.0.0",
+   "provider": "mr-evil1",
+   "type": "Programm"
+  },
+  {
+   "id": "resource.uisounds.ftv",
+   "name": "fTV Sounds",
+   "version": "1.0.1",
+   "provider": "Hitcher",
+   "type": "Ressource"
+  },
+  {
+   "id": "script.module.future",
+   "name": "future",
+   "version": "1.0.0+matrix.1",
+   "provider": "Ed Schofield",
+   "type": "Modul"
+  },
+  {
+   "id": "metadata.generic.albums",
+   "name": "Generic Album Scraper",
+   "version": "1.0.20",
+   "provider": "Team Kodi",
+   "type": "Scraper"
+  },
+  {
+   "id": "metadata.generic.artists",
+   "name": "Generic Artist Scraper",
+   "version": "1.0.20",
+   "provider": "Team Kodi",
+   "type": "Scraper"
+  },
+  {
+   "id": "resource.language.de_de",
+   "name": "German",
+   "version": "11.0.111",
+   "provider": "Team Kodi",
+   "type": "Ressource"
+  },
+  {
+   "id": "script.globalsearch",
+   "name": "Global Search",
+   "version": "9.0.7",
+   "provider": "ronie",
+   "type": "Programm"
+  },
+  {
+   "id": "plugin.audio.iloveradio",
+   "name": "I Love Music",
+   "version": "1.3.0",
+   "provider": "SGK, AI",
+   "type": "Plugin"
+  },
+  {
+   "id": "game.controller.keyboard",
+   "name": "IBM Model M Keyboard",
+   "version": "1.1.43",
+   "provider": "Team Kodi",
+   "type": "kodi.game.controller"
+  },
+  {
+   "id": "script.module.idna",
+   "name": "idna",
+   "version": "3.10.0",
+   "provider": "Kim Davies",
+   "type": "Modul"
+  },
+  {
+   "id": "script.image.resource.select",
+   "name": "Image Resource Select Addon",
+   "version": "3.0.2",
+   "provider": "ronie",
+   "type": "xbmc.python.library"
+  },
+  {
+   "id": "plugin.video.imdb.trailers",
+   "name": "IMDb Trailers",
+   "version": "2.1.22",
+   "provider": "gujal",
+   "type": "Plugin"
+  },
+  {
+   "id": "script.module.infotagger",
+   "name": "InfoTagger",
+   "version": "0.0.81",
+   "provider": "jurialmunkey",
+   "type": "Modul"
+  },
+  {
+   "id": "script.module.inputstreamhelper",
+   "name": "InputStream Helper (Slyguy Wrapper)",
+   "version": "99.0.12",
+   "provider": "SlyGuy",
+   "type": "Programm"
+  },
+  {
+   "id": "Insert-Swap-Kodi-Favourites",
+   "name": "Insert/Swap Kodi Favourites",
+   "version": "1.2",
+   "provider": "M-Borsch,MB-K@DI",
+   "type": "Plugin"
+  },
+  {
+   "id": "plugin.video.joyn",
+   "name": "Joyn",
+   "version": "2.5.47+matrix.1",
+   "provider": "knaerzche, Maven",
+   "type": "Plugin"
+  },
+  {
+   "id": "script.module.jurialmunkey",
+   "name": "jurialmunkey common",
+   "version": "0.2.35",
+   "provider": "jurialmunkey",
+   "type": "Modul"
+  },
+  {
+   "id": "repository.kus.allinone",
+   "name": "K.U.S AllInOne Repository",
+   "version": "3.8",
+   "provider": "K.U.S Team",
+   "type": "Repository"
+  },
+  {
+   "id": "script.kodi.android.update",
+   "name": "Kodi Android Installer",
+   "version": "1.3.7",
+   "provider": "Team Kodi",
+   "type": "Programm"
+  },
+  {
+   "id": "repository.kodi.media",
+   "name": "Kodi Media Repository",
+   "version": "1.0.0",
+   "provider": "mr-evil1",
+   "type": "Repository"
+  },
+  {
+   "id": "script.module.kodi-six",
+   "name": "Kodi Six",
+   "version": "0.1.3.1",
+   "provider": "Roman V.M.",
+   "type": "Modul"
+  },
+  {
+   "id": "repository.kodiman",
+   "name": "Kodimans Repo",
+   "version": "1.0.1",
+   "provider": "Kodiman_Himself",
+   "type": "Repository"
+  },
+  {
+   "id": "repository.kodinerds",
+   "name": "Kodinerds Addon Repo",
+   "version": "7.0.1.8",
+   "provider": "Kodinerds",
+   "type": "Repository"
+  },
+  {
+   "id": "plugin.video.vodkool",
+   "name": "KOOL.TO (Ultimate)",
+   "version": "3.0.0",
+   "provider": "Kato14,mr-evil1",
+   "type": "Plugin"
+  },
+  {
+   "id": "plugin.video.legacy.sounds",
+   "name": "Legacy Sounds",
+   "version": "21.1.1",
+   "provider": "Team Legacy",
+   "type": "Plugin"
+  },
+  {
+   "id": "script.module.libard",
+   "name": "libard",
+   "version": "6.0.3",
+   "provider": "sarbes",
+   "type": "Modul"
+  },
+  {
+   "id": "script.module.libmediathek4",
+   "name": "libmediathek4",
+   "version": "1.0.0",
+   "provider": "sarbes",
+   "type": "Modul"
+  },
+  {
+   "id": "service.library.data.provider",
+   "name": "Library Data Provider",
+   "version": "0.4.2",
+   "provider": "BigNoid, SiLVO",
+   "type": "Plugin"
+  },
+  {
+   "id": "script.logviewer",
+   "name": "Log Viewer for Kodi",
+   "version": "2.1.8+matrix.1",
+   "provider": "i96751414",
+   "type": "Programm"
+  },
+  {
+   "id": "repository.marcelveldt",
+   "name": "Marcelveldt's BETA repository",
+   "version": "1.0.3",
+   "provider": "marcelveldt, finkleandeinhorn",
+   "type": "Repository"
+  },
+  {
+   "id": "repository.martian",
+   "name": "Martian Addon Repository",
+   "version": "1.1.0",
+   "provider": "martian89",
+   "type": "Repository"
+  },
+  {
+   "id": "plugin.video.mediathekdirekt",
+   "name": "Mediathek Direkt",
+   "version": "1.0.3+matrix.2",
+   "provider": "P_Aeh",
+   "type": "Plugin"
+  },
+  {
+   "id": "repository.michaz",
+   "name": "Michaz Repository",
+   "version": "5.1",
+   "provider": "Michaz",
+   "type": "Repository"
+  },
+  {
+   "id": "plugin.video.miclier-doku",
+   "name": "MICLIER-DOKU",
+   "version": "21.1.7",
+   "provider": "MICLIER, A",
+   "type": "Plugin"
+  },
+  {
+   "id": "plugin.audio.mixcloud",
+   "name": "Mixcloud",
+   "version": "420.3.0.4",
+   "provider": "jackyNIX",
+   "type": "Plugin"
+  },
+  {
+   "id": "plugin.audio.mp3streams",
+   "name": "MP3 Streams",
+   "version": "2026.08.24",
+   "provider": "Jon Bovi, King Krimson",
+   "type": "Plugin"
+  },
+  {
+   "id": "metadata.musicvideos.python",
+   "name": "Music Video Scraper",
+   "version": "1.0.1",
+   "provider": "Team Kodi",
+   "type": "Scraper"
+  },
+  {
+   "id": "script.module.mutagen",
+   "name": "Mutagen",
+   "version": "1.47.0",
+   "provider": "Christoph Reiter",
+   "type": "Modul"
+  },
+  {
+   "id": "plugin.video.myspass_de",
+   "name": "MySpass",
+   "version": "5.0.4+matrix.1",
+   "provider": "realvito",
+   "type": "Plugin"
+  },
+  {
+   "id": "script.module.netunblock",
+   "name": "Net Unblock",
+   "version": "0.0.2",
+   "provider": "Joel",
+   "type": "Modul"
+  },
+  {
+   "id": "weather.openmeteo",
+   "name": "Open-Meteo",
+   "version": "1.0.29",
+   "provider": "OpenHT",
+   "type": "Wetter"
+  },
+  {
+   "id": "plugin.video.philizz.media",
+   "name": "Philizz Media",
+   "version": "3.2",
+   "provider": "Publish3r",
+   "type": "Plugin"
+  },
+  {
+   "id": "plugin.video.ptfm",
+   "name": "Play That Funky Music",
+   "version": "1.0.3",
+   "provider": "Metal Dude",
+   "type": "Plugin"
+  },
+  {
+   "id": "script.module.routing",
+   "name": "Plugin routing",
+   "version": "0.2.3.1",
+   "provider": "takoi",
+   "type": "Modul"
+  },
+  {
+   "id": "slyguy.pluto.tv.provider",
+   "name": "Pluto TV",
+   "version": "0.7.8",
+   "provider": "SlyGuy",
+   "type": "Plugin"
+  },
+  {
+   "id": "script.module.pyaes",
+   "name": "PyAES",
+   "version": "1.6.1+matrix.1",
+   "provider": "ricmoo",
+   "type": "Modul"
+  },
+  {
+   "id": "script.module.pyqrcode",
+   "name": "pyQRcode",
+   "version": "1.2.1+matrix.4",
+   "provider": "Michael Nooner",
+   "type": "Modul"
+  },
+  {
+   "id": "script.module.dateutil",
+   "name": "python-dateutil",
+   "version": "2.8.2a",
+   "provider": "Paul Ganssle, Gustavo Niemeyer, Tomi Pieviläinen, Yaron de Leeuw",
+   "type": "Modul"
+  },
+  {
+   "id": "script.module.pytz",
+   "name": "pytz",
+   "version": "2023.3.0+matrix.1",
+   "provider": "Stuart Bishop",
+   "type": "Modul"
+  },
+  {
+   "id": "script.module.qrcode",
+   "name": "qrcode",
+   "version": "6.1.0+matrix.3",
+   "provider": "Lincoln Loop",
+   "type": "Modul"
+  },
+  {
+   "id": "plugin.video.ran_de",
+   "name": "ran Sports",
+   "version": "3.0.1+matrix.1",
+   "provider": "Maven, Linkinsoldier",
+   "type": "Plugin"
+  },
+  {
+   "id": "repository.roooar",
+   "name": "Repo of all Repositories",
+   "version": "1.0.3",
+   "provider": "dEXE",
+   "type": "Repository"
+  },
+  {
+   "id": "script.module.requests",
+   "name": "requests",
+   "version": "2.31.0",
+   "provider": "Python Software Foundation",
+   "type": "Modul"
+  },
+  {
+   "id": "script.module.resolveurl",
+   "name": "ResolveURL",
+   "version": "5.1.210",
+   "provider": "gujal",
+   "type": "Modul"
+  },
+  {
+   "id": "repository.resolveurl",
+   "name": "ResolveURL Repository",
+   "version": "1.0.0",
+   "provider": "gujal",
+   "type": "Repository"
+  },
+  {
+   "id": "script.rss.editor",
+   "name": "RSS Editor",
+   "version": "4.0.2",
+   "provider": "rwparris2, Team Kodi",
+   "type": "Programm"
+  },
+  {
+   "id": "plugin.video.rtlplus",
+   "name": "RTL+",
+   "version": "2026.09.17",
+   "provider": "mr-evil1",
+   "type": "Plugin"
+  },
+  {
+   "id": "slyguy.samsung.tv.plus",
+   "name": "Samsung TV Plus",
+   "version": "0.2.5",
+   "provider": "SlyGuy",
+   "type": "Plugin"
+  },
+  {
+   "id": "plugin.audio.shoutcast",
+   "name": "SHOUTcast",
+   "version": "2.5.2+matrix.1",
+   "provider": "Tristan Fischer (sphere@dersphere.de), enen92",
+   "type": "Plugin"
+  },
+  {
+   "id": "script.module.simplecache",
+   "name": "Simple Cache Module",
+   "version": "2.0.2",
+   "provider": "sualfred",
+   "type": "Modul"
+  },
+  {
+   "id": "script.module.simpleeval",
+   "name": "Simple Eval",
+   "version": "0.9.13",
+   "provider": "Daniel Fairhead",
+   "type": "Modul"
+  },
+  {
+   "id": "script.module.simplejson",
+   "name": "simplejson",
+   "version": "3.19.1+matrix.1",
+   "provider": "Bob Ippolito",
+   "type": "Modul"
+  },
+  {
+   "id": "script.module.six",
+   "name": "six",
+   "version": "1.16.0+matrix.1",
+   "provider": "Benjamin Peterson",
+   "type": "Modul"
+  },
+  {
+   "id": "script.skin.info.service",
+   "name": "Skin Info Service",
+   "version": "2.0.0",
+   "provider": "MikeSiLVO",
+   "type": "Plugin"
+  },
+  {
+   "id": "script.skinshortcuts",
+   "name": "Skin Shortcuts",
+   "version": "2.0.3a",
+   "provider": "BigNoid, marcelveldt, SiLVO, anxdpanic",
+   "type": "xbmc.python.library"
+  },
+  {
+   "id": "script.skinvariables",
+   "name": "Skin Variables",
+   "version": "2.2.7",
+   "provider": "jurialmunkey",
+   "type": "Programm"
+  },
+  {
+   "id": "plugin.program.sKullsDBbackup",
+   "name": "sKulls DB Backup",
+   "version": "1.0.5",
+   "provider": "sKulls inc.",
+   "type": "Plugin"
+  },
+  {
+   "id": "plugin.video.sKullsfusioniptv",
+   "name": "sKulls Fusion IPTV",
+   "version": "1.4.1",
+   "provider": "sKulls inc.",
+   "type": "Plugin"
+  },
+  {
+   "id": "plugin.program.sKullsWallpapers",
+   "name": "sKulls Fusion Wallpaper",
+   "version": "1.3.1",
+   "provider": "sKulls inc.",
+   "type": "Plugin"
+  },
+  {
+   "id": "plugin.audio.sKullsRadioSuite",
+   "name": "sKulls Radio Suite",
+   "version": "3.2.1",
+   "provider": "sKulls inc.",
+   "type": "Plugin"
+  },
+  {
+   "id": "plugin.video.skysport.de",
+   "name": "Sky Sport Mediathek",
+   "version": "1.2.11+matrix.1",
+   "provider": "Maven",
+   "type": "Plugin"
+  },
+  {
+   "id": "script.module.slyguy",
+   "name": "SlyGuy Common",
+   "version": "0.86.99",
+   "provider": "SlyGuy",
+   "type": "Plugin"
+  },
+  {
+   "id": "slyguy.dependencies",
+   "name": "SlyGuy Dependencies",
+   "version": "0.0.30",
+   "provider": "SlyGuy",
+   "type": "Modul"
+  },
+  {
+   "id": "repository.slyguy.inputstreamhelper",
+   "name": "SlyGuy InputStream Helper Wrapper Repository",
+   "version": "0.0.1",
+   "provider": "SlyGuy",
+   "type": "Repository"
+  },
+  {
+   "id": "repository.slyguy",
+   "name": "SlyGuy Repository",
+   "version": "0.0.9",
+   "provider": "SlyGuy",
+   "type": "Repository"
+  },
+  {
+   "id": "game.controller.snes",
+   "name": "SNES Controller",
+   "version": "1.0.43",
+   "provider": "Team Kodi",
+   "type": "kodi.game.controller"
+  },
+  {
+   "id": "plugin.audio.soundcloud",
+   "name": "SoundCloud",
+   "version": "4.1.0",
+   "provider": "jaylinski",
+   "type": "Plugin"
+  },
+  {
+   "id": "script.module.soupsieve",
+   "name": "soupsieve",
+   "version": "2.4.1",
+   "provider": "Isaac Muse",
+   "type": "Modul"
+  },
+  {
+   "id": "script.speedtester",
+   "name": "Speed Tester",
+   "version": "2.0.1+omega.1",
+   "provider": "Dr0idGuy, dagwieers, TomSzo_HUN, The Red Wizard",
+   "type": "Programm"
+  },
+  {
+   "id": "plugin.video.sporteurope.tv",
+   "name": "SPORTEUROPE.TV (light)",
+   "version": "3.0.2+matrix.1",
+   "provider": "realvito",
+   "type": "Plugin"
+  },
+  {
+   "id": "plugin.video.sporthdme",
+   "name": "SportHD",
+   "version": "0.1.90.1",
+   "provider": "Bugatsinho",
+   "type": "Plugin"
+  },
+  {
+   "id": "plugin.video.sportschau",
+   "name": "Sportschau",
+   "version": "6.0.0",
+   "provider": "sarbes",
+   "type": "Plugin"
+  },
+  {
+   "id": "plugin.video.thearchives",
+   "name": "The Archives",
+   "version": "1.2.3.3",
+   "provider": "The Archivist's",
+   "type": "Plugin"
+  },
+  {
+   "id": "repository.thecrew",
+   "name": "THE CREW REPO",
+   "version": "0.3.8",
+   "provider": "The Crew",
+   "type": "Repository"
+  },
+  {
+   "id": "repository.hermit",
+   "name": "The Hermit's Repository",
+   "version": "1.5.1",
+   "provider": "Hermit Murman",
+   "type": "Repository"
+  },
+  {
+   "id": "metadata.themoviedb.org.python",
+   "name": "The Movie Database Python",
+   "version": "3.2.2",
+   "provider": "Team Kodi",
+   "type": "Scraper"
+  },
+  {
+   "id": "repository.redwizard",
+   "name": "The Red Repo",
+   "version": "1.2.2",
+   "provider": "The Red Wizard",
+   "type": "Repository"
+  },
+  {
+   "id": "metadata.tvshows.thetvdb.com.v4.python",
+   "name": "The TVDB v4",
+   "version": "1.1.6",
+   "provider": "TVDB Team",
+   "type": "Scraper"
+  },
+  {
+   "id": "metadata.movies.thetvdb.com.v4.python",
+   "name": "The TVDB v4 (Movies)",
+   "version": "1.0.11",
+   "provider": "TVDB Team",
+   "type": "Scraper"
+  },
+  {
+   "id": "plugin.video.themoviedb.helper",
+   "name": "TMDb Helper",
+   "version": "6.16.5",
+   "provider": "jurialmunkey",
+   "type": "Plugin"
+  },
+  {
+   "id": "metadata.tvshows.themoviedb.org.python",
+   "name": "TMDb TV Shows",
+   "version": "1.7.13",
+   "provider": "Team Kodi",
+   "type": "Scraper"
+  },
+  {
+   "id": "script.module.tzdata",
+   "name": "tzdata",
+   "version": "2023.3.0+matrix.1",
+   "provider": "Python Software Foundation",
+   "type": "Modul"
+  },
+  {
+   "id": "script.module.unidecode",
+   "name": "Unidecode",
+   "version": "1.3.6",
+   "provider": "Tomaz Solc",
+   "type": "Modul"
+  },
+  {
+   "id": "metadata.album.universal",
+   "name": "Universal Album Scraper",
+   "version": "3.1.20",
+   "provider": "Olympia, Team Kodi",
+   "type": "Scraper"
+  },
+  {
+   "id": "metadata.artists.universal",
+   "name": "Universal Artist Scraper",
+   "version": "4.3.24",
+   "provider": "Olympia, Team Kodi",
+   "type": "Scraper"
+  },
+  {
+   "id": "service.upnext",
+   "name": "Up Next",
+   "version": "1.1.9+matrix.1",
+   "provider": "im85288",
+   "type": "Programm"
+  },
+  {
+   "id": "script.module.urllib3",
+   "name": "urllib3",
+   "version": "2.2.3",
+   "provider": "urllib3",
+   "type": "Modul"
+  },
+  {
+   "id": "plugin.video.vav",
+   "name": "VAVOO Live 2",
+   "version": "2026.09.02.1",
+   "provider": "mr-evil1",
+   "type": "Plugin"
+  },
+  {
+   "id": "plugin.video.vavooto",
+   "name": "VAVOO.TO",
+   "version": "2026.09.08.1",
+   "provider": "kasi,michaz",
+   "type": "Plugin"
+  },
+  {
+   "id": "service.xbmc.versioncheck",
+   "name": "Version Check",
+   "version": "0.5.30+matrix.1",
+   "provider": "Team Kodi",
+   "type": "Dienst"
+  },
+  {
+   "id": "resource.images.weatherfanart.multi",
+   "name": "Weather Fanart - Multi",
+   "version": "0.0.6",
+   "provider": "Team Kodi",
+   "type": "Ressource"
+  },
+  {
+   "id": "resource.images.weathericons.white",
+   "name": "Weather Icons - White",
+   "version": "0.0.6",
+   "provider": "Team Kodi",
+   "type": "Ressource"
+  },
+  {
+   "id": "script.module.web-pdb",
+   "name": "Web-PDB",
+   "version": "2.0.1",
+   "provider": "Roman V.M.",
+   "type": "Programm"
+  },
+  {
+   "id": "script.module.websocket",
+   "name": "websocket-client",
+   "version": "1.6.4",
+   "provider": "liris",
+   "type": "Modul"
+  },
+  {
+   "id": "script.wikipedia",
+   "name": "Wikipedia",
+   "version": "0.2.0",
+   "provider": "jurialmunkey",
+   "type": "Programm"
+  },
+  {
+   "id": "plugin.video.wod",
+   "name": "WOD",
+   "version": "0.4",
+   "provider": "",
+   "type": "Plugin"
+  },
+  {
+   "id": "script.module.xbmcswift2",
+   "name": "xbmcswift2",
+   "version": "19.0.7",
+   "provider": "Jonathan Beluch (jbel), enen92",
+   "type": "Modul"
+  },
+  {
+   "id": "script.module.xmltodict",
+   "name": "xmltodict",
+   "version": "0.12.0+matrix.2",
+   "provider": "martinblech",
+   "type": "Modul"
+  },
+  {
+   "id": "plugin.video.xstream",
+   "name": "xStream",
+   "version": "2026.10.03",
+   "provider": "Modded by Akisame",
+   "type": "Plugin"
+  },
+  {
+   "id": "repository.kodi.yatse.tv",
+   "name": "Yatse Kodi Add-on repository",
+   "version": "1.1.0",
+   "provider": "Yatse",
+   "type": "Repository"
+  },
+  {
+   "id": "plugin.video.youtube",
+   "name": "YouTube",
+   "version": "7.4.4+unofficial.2",
+   "provider": "anxdpanic, bromix, MoojMidge",
+   "type": "Plugin"
+  },
+  {
+   "id": "script.module.youtube.dl",
+   "name": "youtube-dl Control",
+   "version": "2026.02.19",
+   "provider": "Rick Phillips (ruuk)",
+   "type": "Programm"
+  },
+  {
+   "id": "repository.zachmorris",
+   "name": "Zach Morris Add-ons",
+   "version": "1.0.4",
+   "provider": "zachmorris",
+   "type": "Repository"
+  },
+  {
+   "id": "script.module.backports.zoneinfo",
+   "name": "zoneinfo",
+   "version": "0.2.1",
+   "provider": "pganssle",
+   "type": "Modul"
+  }
+ ]
+}
