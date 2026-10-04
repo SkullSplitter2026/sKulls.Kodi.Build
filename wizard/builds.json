@@ -1,11 +1,11 @@
 {
  "name": "[COLOR INDIANRED][B]sKulls[/B][/COLOR] [COLOR GOLD][B]Kodi[/B][/COLOR] [COLOR INDIANRED][B]Wizard[/B][/COLOR]",
- "updated": "2026-10-05 01:33",
+ "updated": "2026-10-05 01:38",
  "wizard": {
-  "version": "1.0.25",
-  "zip": "wizard/plugin.program.skullskodiwizard-1.0.25.zip",
-  "sha256": "02774e2eecddf16e771018d9f9f5d09a282c348e21410a63f747dd225252a162",
-  "size": 1148832
+  "version": "1.0.26",
+  "zip": "wizard/plugin.program.skullskodiwizard-1.0.26.zip",
+  "sha256": "4fe323dda479bb14266bd6e088b588c59fa5b4d3e32494989977b8d2c16ff649",
+  "size": 1148834
  },
  "builds": [
   {
