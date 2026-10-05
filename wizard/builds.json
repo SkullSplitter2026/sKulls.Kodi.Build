@@ -1,0 +1,51 @@
+{
+ "name": "[COLOR INDIANRED][B]sKulls[/B][/COLOR] [COLOR GOLD][B]Kodi[/B][/COLOR] [COLOR INDIANRED][B]Wizard[/B][/COLOR]",
+ "updated": "2026-10-05 19:03",
+ "wizard": {
+  "version": "1.0.27",
+  "zip": "wizard/plugin.program.skullskodiwizard-1.0.27.zip",
+  "sha256": "0b3b3dc0275c30832a2ae3a770e20fa493d0f569d580d33d1809c12df89cd8a2",
+  "size": 4285755,
+  "news": "Komplett neuer Wizard !!!!"
+ },
+ "builds": [
+  {
+   "id": "skulls-kodi-build-private",
+   "name": "sKulls Kodi Build Private",
+   "version": "1.10",
+   "kodi": "21",
+   "description": "Skin: Arctic: Zephyr (martian) · 154 Addons",
+   "changelog": "",
+   "zip": "https://github.com/SkullSplitter2026/sKulls.Kodi.Build/releases/download/plugin.program.skullskodiwizard-builds/skulls-kodi-build-private-1.10.zip",
+   "sha256": "bf5a2843fd3f808237892168094da353547477200416c6569733d4d62fc982a0",
+   "size": 520211657,
+   "built": "2026-10-05 18:53",
+   "addons": 151,
+   "manifest": "builds/skulls-kodi-build-private-1.10.json",
+   "icon": "https://skullsplitter2026.github.io/sKulls.Kodi.Build/wizard/icons/skulls-kodi-build-private.png",
+   "fanart": "https://skullsplitter2026.github.io/sKulls.Kodi.Build/wizard/fanart/skulls-kodi-build-private.jpg",
+   "binaries": [
+    "inputstream.adaptive",
+    "inputstream.ffmpegdirect",
+    "inputstream.rtmp",
+    "pvr.iptvsimple",
+    "pvr.stalker"
+   ],
+   "platforms": [
+    "android"
+   ],
+   "gui": {
+    "zip": "builds/skulls-kodi-build-private-1.10-gui.zip",
+    "sha256": "ce4357c9db122f9f056192d9b37c1486ae6218d831043f47ad0e2d89c3b310b5",
+    "size": 11501
+   }
+  }
+ ],
+ "repo": {
+  "id": "repository.skulls",
+  "version": "2.1.2",
+  "zip": "repo/repository.skulls-2.1.2.zip",
+  "sha256": "672049a700b1500bf2cd48a88bccdad864266038157fab915655340b6f6433f4",
+  "size": 3091375
+ }
+}
