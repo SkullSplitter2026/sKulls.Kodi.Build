@@ -5375,7 +5375,7 @@ provider-name="jurialmunkey">
 	</extension>
 </addon>
 
-<addon id="plugin.program.skullskodiwizard" name="[COLOR INDIANRED][B]sKulls[/B][/COLOR] [COLOR GOLD][B]Kodi[/B][/COLOR] [COLOR INDIANRED][B]Wizard[/B][/COLOR]" version="1.0.28" provider-name="[COLOR INDIANRED]sKulls[/COLOR] [COLOR GOLD]inc.[/COLOR]">
+<addon id="plugin.program.skullskodiwizard" name="[COLOR INDIANRED][B]sKulls[/B][/COLOR] [COLOR GOLD][B]Kodi[/B][/COLOR] [COLOR INDIANRED][B]Wizard[/B][/COLOR]" version="1.0.29" provider-name="[COLOR INDIANRED]sKulls[/COLOR] [COLOR GOLD]inc.[/COLOR]">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
     </requires>
