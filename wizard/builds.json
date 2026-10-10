@@ -1,11 +1,11 @@
 {
  "name": "[COLOR INDIANRED][B]sKulls[/B][/COLOR] [COLOR GOLD][B]Kodi[/B][/COLOR] [COLOR INDIANRED][B]Wizard[/B][/COLOR]",
- "updated": "2026-10-05 19:03",
+ "updated": "2026-10-10 21:39",
  "wizard": {
-  "version": "1.0.27",
-  "zip": "wizard/plugin.program.skullskodiwizard-1.0.27.zip",
-  "sha256": "0b3b3dc0275c30832a2ae3a770e20fa493d0f569d580d33d1809c12df89cd8a2",
-  "size": 4285755,
+  "version": "1.0.28",
+  "zip": "wizard/plugin.program.skullskodiwizard-1.0.28.zip",
+  "sha256": "afd21cff609dc18f02b8d4c870d44e9d2203a6bb86e1bd28a91e88f2367237c0",
+  "size": 4286102,
   "news": "Komplett neuer Wizard !!!!"
  },
  "builds": [
@@ -24,6 +24,118 @@
    "manifest": "builds/skulls-kodi-build-private-1.10.json",
    "icon": "https://skullsplitter2026.github.io/sKulls.Kodi.Build/wizard/icons/skulls-kodi-build-private.png",
    "fanart": "https://skullsplitter2026.github.io/sKulls.Kodi.Build/wizard/fanart/skulls-kodi-build-private.jpg",
+   "repositories": [
+    {
+     "id": "repository.BrazAIO",
+     "name": "BrazAIO Unofficial",
+     "host": "github.com"
+    },
+    {
+     "id": "repository.bugatsinho",
+     "name": "Bugatsinho repository",
+     "host": "raw.githubusercontent.com"
+    },
+    {
+     "id": "repository.collabsvito",
+     "name": "Collabsvito that's my AiO REPO",
+     "host": "raw.githubusercontent.com"
+    },
+    {
+     "id": "repository.dexe",
+     "name": "dEXE's Addons Repository",
+     "host": "raw.githubusercontent.com"
+    },
+    {
+     "id": "repository.diggz",
+     "name": "Diggz Repository",
+     "host": "raw.githubusercontent.com"
+    },
+    {
+     "id": "repository.doomzday",
+     "name": "Doomzday Repo",
+     "host": "doomzdayteam.github.io"
+    },
+    {
+     "id": "repository.hermit",
+     "name": "The Hermit's Repository",
+     "host": "the-hermit.com"
+    },
+    {
+     "id": "repository.kodi.media",
+     "name": "Kodi Media Repository",
+     "host": "mr-evil1.github.io"
+    },
+    {
+     "id": "repository.kodi.yatse.tv",
+     "name": "Yatse Kodi Add-on repository",
+     "host": "raw.githubusercontent.com"
+    },
+    {
+     "id": "repository.kodiman",
+     "name": "Kodimans Repo",
+     "host": "kodiman.cloud"
+    },
+    {
+     "id": "repository.kodinerds",
+     "name": "Kodinerds Addon Repo",
+     "host": "repo.kodinerds.net"
+    },
+    {
+     "id": "repository.kus.allinone",
+     "name": "K.U.S AllInOne Repository",
+     "host": "kodi-unlimited-support.de"
+    },
+    {
+     "id": "repository.marcelveldt",
+     "name": "Marcelveldt's BETA repository",
+     "host": "raw.githubusercontent.com"
+    },
+    {
+     "id": "repository.martian",
+     "name": "Martian Addon Repository",
+     "host": "raw.githubusercontent.com"
+    },
+    {
+     "id": "repository.michaz",
+     "name": "Michaz Repository",
+     "host": "michaz1988.github.io"
+    },
+    {
+     "id": "repository.redwizard",
+     "name": "The Red Repo",
+     "host": "repo.redwizard.xyz"
+    },
+    {
+     "id": "repository.resolveurl",
+     "name": "ResolveURL Repository",
+     "host": "raw.githubusercontent.com"
+    },
+    {
+     "id": "repository.roooar",
+     "name": "Repo of all Repositories",
+     "host": "raw.githubusercontent.com"
+    },
+    {
+     "id": "repository.slyguy",
+     "name": "SlyGuy Repository",
+     "host": "slyguy.uk"
+    },
+    {
+     "id": "repository.slyguy.inputstreamhelper",
+     "name": "SlyGuy InputStream Helper Wrapper Repository",
+     "host": "slyguy.uk"
+    },
+    {
+     "id": "repository.thecrew",
+     "name": "THE CREW REPO",
+     "host": "raw.githubusercontent.com"
+    },
+    {
+     "id": "repository.zachmorris",
+     "name": "Zach Morris Add-ons",
+     "host": "github.com"
+    }
+   ],
    "binaries": [
     "inputstream.adaptive",
     "inputstream.ffmpegdirect",
