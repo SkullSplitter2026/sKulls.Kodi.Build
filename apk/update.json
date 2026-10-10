@@ -1,0 +1,22 @@
+{
+  "name": "sKulls Kodi 22.0 Build",
+  "package": "skulls.kodi22.build",
+  "version_code": 2190802,
+  "version_name": "22.0ß2",
+  "changelog": "",
+  "changelog_en": "",
+  "date": "2026-10-10",
+  "apks": {
+    "armeabi-v7a": "https://github.com/SkullSplitter2026/sKulls.Kodi.Build/releases/download/v22.0%C3%9F2-2190802/sKulls_Kodi_22.0_Build_v22.0ss2_armeabi-v7a_signed.apk"
+  },
+  "sha256": {
+    "armeabi-v7a": "d45a7d987c45836ee8b760683ffc3c67f5ef3bf100c02084a69863c0d9cdac03"
+  },
+  "size": {
+    "armeabi-v7a": 97793398
+  },
+  "url": "https://github.com/SkullSplitter2026/sKulls.Kodi.Build/releases/download/v22.0%C3%9F2-2190802/sKulls_Kodi_22.0_Build_v22.0ss2_armeabi-v7a_signed.apk",
+  "mirrors": [
+    "https://skullsplitter2026.github.io/sKulls.Kodi.Build/apk"
+  ]
+}
