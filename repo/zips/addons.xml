@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="repository.skulls" name="[B][COLOR indianred]sKulls[/COLOR] [COLOR gold]Kodi[/COLOR] [COLOR indianred]Repository[/COLOR][/B]" version="2.1.3" provider-name="[COLOR indianred]sKulls[/COLOR] [COLOR gold]inc.[/COLOR]">
+<addon id="repository.skulls" name="[B][COLOR indianred]sKulls[/COLOR] [COLOR gold]Kodi[/COLOR] [COLOR indianred]Repository[/COLOR][/B]" version="2.1.4" provider-name="[COLOR indianred]sKulls[/COLOR] [COLOR gold]inc.[/COLOR]">
     <extension point="xbmc.addon.repository" name="[B][COLOR indianred]sKulls[/COLOR] [COLOR gold]Kodi[/COLOR] [COLOR indianred]Repository[/COLOR][/B]">
         <dir>
             <info compressed="false">https://skullsplitter2026.github.io/sKulls.Kodi.Build/repo/zips/addons.xml</info>
@@ -5375,7 +5375,7 @@ provider-name="jurialmunkey">
 	</extension>
 </addon>
 
-<addon id="plugin.program.skullskodiwizard" name="[COLOR INDIANRED][B]sKulls[/B][/COLOR] [COLOR GOLD][B]Kodi[/B][/COLOR] [COLOR INDIANRED][B]Wizard[/B][/COLOR]" version="1.0.32" provider-name="[COLOR INDIANRED]sKulls[/COLOR] [COLOR GOLD]inc.[/COLOR]">
+<addon id="plugin.program.skullskodiwizard" name="[COLOR INDIANRED][B]sKulls[/B][/COLOR] [COLOR GOLD][B]Kodi[/B][/COLOR] [COLOR INDIANRED][B]Wizard[/B][/COLOR]" version="1.0.33" provider-name="[COLOR INDIANRED]sKulls[/COLOR] [COLOR GOLD]inc.[/COLOR]">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
     </requires>
