@@ -1,9 +1,9 @@
 {
  "name": "[COLOR indianred][B]sKulls[/B][/COLOR] [COLOR gold][B]Kodi[/B][/COLOR] [COLOR indianred][B]Wizard[/B][/COLOR]",
- "updated": "2026-10-11 23:36",
+ "updated": "2026-10-11 23:47",
  "wizard": {
   "version": "1.0.35",
-  "zip": "https://skullsplitter2026.github.io/sKulls.Kodi.Build/repo/zips/plugin.program.skullskodiwizard/plugin.program.skullskodiwizard-1.0.35.zip",
+  "zip": "wizard/plugin.program.skullskodiwizard-1.0.35.zip",
   "sha256": "b49651b0600aebd00806263fc1225384c9a2a1998804dc04fc9ae7143f3b9c64",
   "size": 4296362,
   "news": "Komplett neuer Wizard !!!!"
@@ -22,8 +22,8 @@
    "built": "2026-10-11 21:27",
    "addons": 150,
    "manifest": "https://skullsplitter2026.github.io/sKulls.Kodi.Build/Build/skulls-kodi-build-private-1.10.json",
-   "icon": "https://skullsplitter2026.github.io/sKulls.Kodi.Build/wizard/skulls-kodi-build-private-icon.png",
-   "fanart": "https://skullsplitter2026.github.io/sKulls.Kodi.Build/wizard/skulls-kodi-build-private-fanart.jpg",
+   "icon": "https://skullsplitter2026.github.io/sKulls.Kodi.Build/skulls-kodi-build-private-icon.png",
+   "fanart": "https://skullsplitter2026.github.io/sKulls.Kodi.Build/skulls-kodi-build-private-fanart.jpg",
    "downloads": 1,
    "requirements": {
     "free": 1754
@@ -159,20 +159,27 @@
   {
    "id": "skulls-kodi-build",
    "name": "[COLOR indianred][B]sKulls[/B][/COLOR][B] [/B][COLOR gold][B]Kodi[/B][/COLOR][B] [/B][COLOR indianred][B]Build[/B][/COLOR]",
-   "version": "1.3.2",
-   "kodi": "22",
+   "version": "1.3.5",
+   "kodi": "21",
    "description": "[COLOR indianred][B]sKulls[/B][/COLOR][B] [/B][COLOR gold][B]Kodi[/B][/COLOR][B] [/B][COLOR indianred][B]Build[/B][/COLOR]",
    "changelog": "- Neu: inputstream.adaptive, inputstream.ffmpegdirect, inputstream.rtmp, pvr.iptvsimple, pvr.stalker, sKulls Stalker Client Mod 1.8.0 und 1 weitere\n- Aktualisiert: Arctic: Zephyr (martian) 3.20.2 > 3.20.3, ResolveURL 5.1.210 > 5.1.211, SportHD 0.1.90.1 > 0.1.91, xStream 2026.10.03 > 2026.10.10\n- Entfernt: Account Viewer, acctviewer, Skin Variables\n- Für Kodi 22 (vorher 21)",
-   "zip": "https://github.com/SkullSplitter2026/sKulls.Kodi.Build/releases/download/plugin.program.skullskodiwizard-builds/skulls-kodi-build-1.3.2.zip",
-   "sha256": "edc5bd1d42c97a3410d044bc06bd9c235eaeb3234f681287aabadfa6d714d014",
-   "size": 427254658,
-   "built": "2026-10-11 23:09",
+   "zip": "https://github.com/SkullSplitter2026/sKulls.Kodi.Build/releases/download/plugin.program.skullskodiwizard-builds/skulls-kodi-build-1.3.5.zip",
+   "sha256": "db18e0fd0ad2afee54aff250d7fbc02e5143bedf9746933a6192a46b2676f0c1",
+   "size": 427250643,
+   "built": "2026-10-11 23:46",
    "addons": 149,
-   "manifest": "https://skullsplitter2026.github.io/sKulls.Kodi.Build/Build/skulls-kodi-build-1.3.2.json",
-   "icon": "https://skullsplitter2026.github.io/sKulls.Kodi.Build/wizard/skulls-kodi-build-icon.png",
-   "fanart": "https://skullsplitter2026.github.io/sKulls.Kodi.Build/wizard/skulls-kodi-build-fanart.jpg",
+   "manifest": "https://skullsplitter2026.github.io/sKulls.Kodi.Build/Build/skulls-kodi-build-1.3.5.json",
+   "icon": "https://skullsplitter2026.github.io/sKulls.Kodi.Build/skulls-kodi-build-icon.png",
+   "fanart": "https://skullsplitter2026.github.io/sKulls.Kodi.Build/skulls-kodi-build-fanart.jpg",
    "badge": "empfohlen",
    "downloads": 2,
+   "variants": {
+    "22": {
+     "zip": "https://github.com/SkullSplitter2026/sKulls.Kodi.Build/releases/download/plugin.program.skullskodiwizard-builds/skulls-kodi-build-1.3.5-kodi22.zip",
+     "sha256": "da8b61b713960383e2e9d4e1eb5280cb5f3a5c30bc142b07562317f951667b0b",
+     "size": 427135332
+    }
+   },
    "requirements": {
     "free": 1417
    },
