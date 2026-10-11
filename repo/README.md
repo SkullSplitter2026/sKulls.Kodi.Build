@@ -1,22 +1,22 @@
 # sKulls Kodi Repository
 
-Die sKulls Kodi Repository bringt die besten Addons in alle Ecken der Welt!!!  sKulls-Repository, KEIN VERBOT! KEIN SCHAEDLICHES Skript!! REIN, SAUBER UND EINFACH!!! Offizielles sKulls-Repository – Vollstaendige oder teilweise Vervielfaeltigung ohne vorherige Genehmigung verboten Addons aus diesem Repository koennen kostenlos verwendet werden!! Der Verkauf der in diesem Repository enthaltenen Add-ons ist verboten
+Die sKulls Kodi Repository bringt die besten Addons in alle Ecken der Welt!!!  sKulls-Repository, KEIN VERBOT! KEIN SCHÄDLICHES Skript!! REIN, SAUBER UND EINFACH!!! Offizielles sKulls-Repository – Vollständige oder teilweise Vervielfältigung ohne vorherige Genehmigung verboten Addons aus diesem Repository können kostenlos verwendet werden!! Der Verkauf der in diesem Repository enthaltenen Add-ons ist verboten
 
-**Repository-Addon:** [repository.skulls-2.1.6.zip](https://skullsplitter2026.github.io/sKulls.Kodi.Build/repo/repository.skulls-2.1.6.zip)
+**Repository-Addon:** [repository.skulls-2.1.8.zip](https://skullsplitter2026.github.io/sKulls.Kodi.Build/repo/repository.skulls-2.1.8.zip)
 **Adresse / Address:** `https://skullsplitter2026.github.io/sKulls.Kodi.Build/repo/`
 
 ## Installation (Deutsch)
 
 1. In Kodi: Einstellungen → System → Addons → **Unbekannte Quellen** einschalten.
 2. Einstellungen → Dateimanager → **Quelle hinzufügen** → `https://skullsplitter2026.github.io/sKulls.Kodi.Build/repo/` → Name z.B. `sKulls Kodi Repository`.
-3. Einstellungen → Addons → **Aus ZIP-Datei installieren** → `sKulls Kodi Repository` → `repository.skulls-2.1.6.zip`.
+3. Einstellungen → Addons → **Aus ZIP-Datei installieren** → `sKulls Kodi Repository` → `repository.skulls-2.1.8.zip`.
 4. **Aus Repository installieren** → sKulls Kodi Repository → Addons wählen. Updates kommen automatisch.
 
 ## Installation (English)
 
 1. In Kodi: Settings → System → Add-ons → enable **Unknown sources**.
 2. Settings → File manager → **Add source** → `https://skullsplitter2026.github.io/sKulls.Kodi.Build/repo/` → name it e.g. `sKulls Kodi Repository`.
-3. Settings → Add-ons → **Install from zip file** → `sKulls Kodi Repository` → `repository.skulls-2.1.6.zip`.
+3. Settings → Add-ons → **Install from zip file** → `sKulls Kodi Repository` → `repository.skulls-2.1.8.zip`.
 4. **Install from repository** → sKulls Kodi Repository → choose your add-ons. Updates arrive automatically.
 
 ## Addons (114)
@@ -41,7 +41,7 @@ Die sKulls Kodi Repository bringt die besten Addons in alle Ecken der Welt!!!  s
 | `plugin.program.ftp` | 2.0.0 |
 | `plugin.program.sKullsDBbackup` | 1.0.5 |
 | `plugin.program.sKullsWallpapers` | 1.3.1 |
-| `plugin.program.skullskodiwizard` | 1.0.37 |
+| `plugin.program.skullskodiwizard` | 1.0.38 |
 | `plugin.video.All.Kinds.of.Music` | 21.1.7 |
 | `plugin.video.DreamZBeats` | 1.0.7 |
 | `plugin.video.cumination` | 1.1.202 |
