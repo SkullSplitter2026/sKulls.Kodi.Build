@@ -41,7 +41,7 @@ Die sKulls Kodi Repository bringt die besten Addons in alle Ecken der Welt!!!  s
 | `plugin.program.ftp` | 2.0.0 |
 | `plugin.program.sKullsDBbackup` | 1.0.5 |
 | `plugin.program.sKullsWallpapers` | 1.3.1 |
-| `plugin.program.skullskodiwizard` | 1.0.35 |
+| `plugin.program.skullskodiwizard` | 1.0.36 |
 | `plugin.video.All.Kinds.of.Music` | 21.1.7 |
 | `plugin.video.DreamZBeats` | 1.0.7 |
 | `plugin.video.cumination` | 1.1.202 |
