@@ -1,24 +1,24 @@
 {
-  "name": "sKulls Kodi Build",
+  "name": "sKulls Kodi 21.3 Build",
   "package": "skulls.kodi.build",
-  "version_code": 2190901,
-  "version_name": "22.0-RC1",
+  "version_code": 2103000,
+  "version_name": "21.3",
   "changelog": "",
   "changelog_en": "",
   "date": "2026-10-12",
   "apks": {
-    "armeabi-v7a": "https://github.com/SkullSplitter2026/sKulls.Kodi.Build/releases/download/v22.0-RC1-2190901/sKulls_Kodi_Build_v22.0-RC1_armeabi-v7a_signed.apk",
-    "arm64-v8a": "https://github.com/SkullSplitter2026/sKulls.Kodi.Build/releases/download/v22.0-RC1-2190901/sKulls_Kodi_Build_v22.0-RC1_arm64-v8a_signed.apk"
+    "armeabi-v7a": "https://github.com/SkullSplitter2026/sKulls.Kodi.Build/releases/download/v21.3-2103000/sKulls_Kodi_21.3_Build_v21.3_armeabi-v7a_signed.apk",
+    "arm64-v8a": "https://github.com/SkullSplitter2026/sKulls.Kodi.Build/releases/download/v21.3-2103000/sKulls_Kodi_21.3_Build_v21.3_arm64-v8a_signed.apk"
   },
   "sha256": {
-    "armeabi-v7a": "681e1bba2bec31bd34bcbd9cd2b6da89c3a01f7f8dcef498cd10fd1c3106bf4c",
-    "arm64-v8a": "eb55760ba32211c6a49a31e1d909e08274cbc3a3c6cdd8cf1a2882a4788c6c78"
+    "armeabi-v7a": "afabec325fc9ffef7ddbcb0aa5e768ae271c63b3fc5df9ef56bc1854f3e4dd25",
+    "arm64-v8a": "3fbc8ca129e76016401a1fb9a7e274919536b526ae6cea166937091d43ccbf38"
   },
   "size": {
-    "armeabi-v7a": 99096187,
-    "arm64-v8a": 102250011
+    "armeabi-v7a": 91156162,
+    "arm64-v8a": 91491946
   },
-  "url": "https://github.com/SkullSplitter2026/sKulls.Kodi.Build/releases/download/v22.0-RC1-2190901/sKulls_Kodi_Build_v22.0-RC1_armeabi-v7a_signed.apk",
+  "url": "https://github.com/SkullSplitter2026/sKulls.Kodi.Build/releases/download/v21.3-2103000/sKulls_Kodi_21.3_Build_v21.3_armeabi-v7a_signed.apk",
   "mirrors": [
     "https://skullsplitter2026.github.io/sKulls.Kodi.Build/apk"
   ]
