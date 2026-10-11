@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="repository.skulls" name="[B][COLOR indianred]sKulls[/COLOR] [COLOR gold]Kodi[/COLOR] [COLOR indianred]Repository[/COLOR][/B]" version="2.1.4" provider-name="[COLOR indianred]sKulls[/COLOR] [COLOR gold]inc.[/COLOR]">
+<addon id="repository.skulls" name="[B][COLOR indianred]sKulls[/COLOR] [COLOR gold]Kodi[/COLOR] [COLOR indianred]Repository[/COLOR][/B]" version="2.1.6" provider-name="[COLOR indianred]sKulls[/COLOR] [COLOR gold]inc.[/COLOR]">
     <extension point="xbmc.addon.repository" name="[B][COLOR indianred]sKulls[/COLOR] [COLOR gold]Kodi[/COLOR] [COLOR indianred]Repository[/COLOR][/B]">
         <dir>
             <info compressed="false">https://skullsplitter2026.github.io/sKulls.Kodi.Build/repo/zips/addons.xml</info>
@@ -5375,7 +5375,7 @@ provider-name="jurialmunkey">
 	</extension>
 </addon>
 
-<addon id="plugin.program.skullskodiwizard" name="[COLOR INDIANRED][B]sKulls[/B][/COLOR] [COLOR GOLD][B]Kodi[/B][/COLOR] [COLOR INDIANRED][B]Wizard[/B][/COLOR]" version="1.0.33" provider-name="[COLOR INDIANRED]sKulls[/COLOR] [COLOR GOLD]inc.[/COLOR]">
+<addon id="plugin.program.skullskodiwizard" name="[COLOR indianred][B]sKulls[/B][/COLOR] [COLOR gold][B]Kodi[/B][/COLOR] [COLOR indianred][B]Wizard[/B][/COLOR]" version="1.0.35" provider-name="[COLOR indianred]sKulls[/COLOR] [COLOR gold]inc.[/COLOR]">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
     </requires>
@@ -5384,10 +5384,10 @@ provider-name="jurialmunkey">
     </extension>
     <extension point="xbmc.service" library="service.py" start="login"/>
     <extension point="xbmc.addon.metadata">
-        <summary lang="de_DE">[COLOR INDIANRED][B]sKulls[/B][/COLOR] [COLOR GOLD][B]KODI[/B][/COLOR] [COLOR INDIANRED][B]Wizard[/B][/COLOR]</summary>
-        <summary lang="en_GB">[COLOR INDIANRED][B]sKulls[/B][/COLOR] [COLOR GOLD][B]KODI[/B][/COLOR] [COLOR INDIANRED][B]Wizard[/B][/COLOR]</summary>
-        <description lang="de_DE">[COLOR INDIANRED][B]sKulls[/B][/COLOR] [COLOR GOLD][B]KODI[/B][/COLOR] [COLOR INDIANRED][B]Wizard[/B][/COLOR] zum Installieren, Aktualisieren und Warten von sKulls Kodi Builds !!!</description>
-        <description lang="en_GB">[COLOR INDIANRED][B]sKulls[/B][/COLOR] [COLOR GOLD][B]KODI[/B][/COLOR] [COLOR INDIANRED][B]Wizard[/B][/COLOR] zum Installieren, Aktualisieren und Warten von sKulls Kodi Builds !!!</description>
+        <summary lang="de_DE">[COLOR indianred][B]sKulls[/B][/COLOR] [COLOR gold][B]KODI[/B][/COLOR] [COLOR indianred][B]Wizard[/B][/COLOR]</summary>
+        <summary lang="en_GB">[COLOR indianred][B]sKulls[/B][/COLOR] [COLOR gold][B]KODI[/B][/COLOR] [COLOR indianred][B]Wizard[/B][/COLOR]</summary>
+        <description lang="de_DE">[COLOR indianred][B]sKulls[/B][/COLOR] [COLOR gold][B]KODI[/B][/COLOR] [COLOR indianred][B]Wizard[/B][/COLOR] zum Installieren, Aktualisieren und Warten von sKulls Kodi Builds !!!</description>
+        <description lang="en_GB">[COLOR indianred][B]sKulls[/B][/COLOR] [COLOR gold][B]KODI[/B][/COLOR] [COLOR indianred][B]Wizard[/B][/COLOR] zum Installieren, Aktualisieren und Warten von sKulls Kodi Builds !!!</description>
         <platform>all</platform>
         <license>GPL-3.0-or-later</license>
         <news>Komplett neuer Wizard !!!!</news>
