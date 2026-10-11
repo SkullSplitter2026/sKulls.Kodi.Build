@@ -1,11 +1,11 @@
 {
  "name": "[COLOR INDIANRED][B]sKulls[/B][/COLOR] [COLOR GOLD][B]Kodi[/B][/COLOR] [COLOR INDIANRED][B]Wizard[/B][/COLOR]",
- "updated": "2026-10-11 17:24",
+ "updated": "2026-10-11 22:18",
  "wizard": {
-  "version": "1.0.32",
-  "zip": "https://skullsplitter2026.github.io/sKulls.Kodi.Build/repo/zips/plugin.program.skullskodiwizard/plugin.program.skullskodiwizard-1.0.32.zip",
-  "sha256": "733c9d120de20badb775590f1bb59c32a82b2b037e654c7f32aa85fd3092ae9c",
-  "size": 4295841,
+  "version": "1.0.33",
+  "zip": "https://skullsplitter2026.github.io/sKulls.Kodi.Build/repo/zips/plugin.program.skullskodiwizard/plugin.program.skullskodiwizard-1.0.33.zip",
+  "sha256": "9721f1c1cf4fa0d848d0f362ff1d3a495bd7839291160a5c8160df0ff4e433d4",
+  "size": 4296376,
   "news": "Komplett neuer Wizard !!!!"
  },
  "builds": [
@@ -17,15 +17,15 @@
    "description": "Skin: Arctic: Zephyr (martian) · 154 Addons",
    "changelog": "",
    "zip": "https://github.com/SkullSplitter2026/sKulls.Kodi.Build/releases/download/plugin.program.skullskodiwizard-builds/skulls-kodi-build-private-1.10.zip",
-   "sha256": "bf5a2843fd3f808237892168094da353547477200416c6569733d4d62fc982a0",
-   "size": 520211657,
-   "built": "2026-10-05 18:53",
-   "addons": 151,
+   "sha256": "9c65c8790e4fa62ea2f517657c4e0bc75f6db2ea55d15e46c3421593ad20ae5a",
+   "size": 524122607,
+   "built": "2026-10-11 21:27",
+   "addons": 150,
    "manifest": "https://skullsplitter2026.github.io/sKulls.Kodi.Build/Build/skulls-kodi-build-private-1.10.json",
    "icon": "https://skullsplitter2026.github.io/sKulls.Kodi.Build/wizard/skulls-kodi-build-private-icon.png",
    "fanart": "https://skullsplitter2026.github.io/sKulls.Kodi.Build/wizard/skulls-kodi-build-private-fanart.jpg",
    "requirements": {
-    "free": 1750
+    "free": 1754
    },
    "repositories": [
     {
@@ -154,13 +154,160 @@
     "sha256": "826b822ddb23bd68314c6e287afd1f8c370072007b767f79fe7b3690fa7c0cce",
     "size": 11287
    }
+  },
+  {
+   "id": "skulls-kodi-build",
+   "name": "[COLOR indianred][B]sKulls[/B][/COLOR][B] [/B][COLOR gold][B]Kodi[/B][/COLOR][B] [/B][COLOR indianred][B]Build[/B][/COLOR]",
+   "version": "1.2.0",
+   "kodi": "22",
+   "description": "[COLOR indianred][B]sKulls[/B][/COLOR][B] [/B][COLOR gold][B]Kodi[/B][/COLOR][B] [/B][COLOR indianred][B]Build[/B][/COLOR]",
+   "changelog": "- Neu: inputstream.adaptive, inputstream.ffmpegdirect, inputstream.rtmp, pvr.iptvsimple, pvr.stalker, sKulls Stalker Client Mod 1.8.0 und 1 weitere\n- Aktualisiert: Arctic: Zephyr (martian) 3.20.2 > 3.20.3, ResolveURL 5.1.210 > 5.1.211, SportHD 0.1.90.1 > 0.1.91, xStream 2026.10.03 > 2026.10.10\n- Entfernt: Account Manager Testing, Account Viewer, acctviewer, Skin Variables\n- Für Kodi 22 (vorher 21)",
+   "zip": "https://github.com/SkullSplitter2026/sKulls.Kodi.Build/releases/download/plugin.program.skullskodiwizard-builds/skulls-kodi-build-1.2.0.zip",
+   "sha256": "bad4aabd7516d4268655777f6974303c08f2ad54029f077fa8d986828bcd9577",
+   "size": 427254774,
+   "built": "2026-10-11 21:28",
+   "addons": 149,
+   "manifest": "https://skullsplitter2026.github.io/sKulls.Kodi.Build/Build/skulls-kodi-build-1.2.0.json",
+   "icon": "https://skullsplitter2026.github.io/sKulls.Kodi.Build/wizard/skulls-kodi-build-icon.png",
+   "fanart": "https://skullsplitter2026.github.io/sKulls.Kodi.Build/wizard/skulls-kodi-build-fanart.jpg",
+   "badge": "empfohlen",
+   "requirements": {
+    "free": 1417
+   },
+   "repositories": [
+    {
+     "id": "repository.BrazAIO",
+     "name": "BrazAIO Unofficial",
+     "host": "github.com"
+    },
+    {
+     "id": "repository.bugatsinho",
+     "name": "Bugatsinho repository",
+     "host": "raw.githubusercontent.com"
+    },
+    {
+     "id": "repository.collabsvito",
+     "name": "Collabsvito that's my AiO REPO",
+     "host": "raw.githubusercontent.com"
+    },
+    {
+     "id": "repository.dexe",
+     "name": "dEXE's Addons Repository",
+     "host": "raw.githubusercontent.com"
+    },
+    {
+     "id": "repository.diggz",
+     "name": "Diggz Repository",
+     "host": "raw.githubusercontent.com"
+    },
+    {
+     "id": "repository.doomzday",
+     "name": "Doomzday Repo",
+     "host": "doomzdayteam.github.io"
+    },
+    {
+     "id": "repository.hermit",
+     "name": "The Hermit's Repository",
+     "host": "the-hermit.com"
+    },
+    {
+     "id": "repository.kodi.media",
+     "name": "Kodi Media Repository",
+     "host": "mr-evil1.github.io"
+    },
+    {
+     "id": "repository.kodi.yatse.tv",
+     "name": "Yatse Kodi Add-on repository",
+     "host": "raw.githubusercontent.com"
+    },
+    {
+     "id": "repository.kodiman",
+     "name": "Kodimans Repo",
+     "host": "kodiman.cloud"
+    },
+    {
+     "id": "repository.kodinerds",
+     "name": "Kodinerds Addon Repo",
+     "host": "repo.kodinerds.net"
+    },
+    {
+     "id": "repository.kus.allinone",
+     "name": "K.U.S AllInOne Repository",
+     "host": "kodi-unlimited-support.de"
+    },
+    {
+     "id": "repository.marcelveldt",
+     "name": "Marcelveldt's BETA repository",
+     "host": "raw.githubusercontent.com"
+    },
+    {
+     "id": "repository.martian",
+     "name": "Martian Addon Repository",
+     "host": "raw.githubusercontent.com"
+    },
+    {
+     "id": "repository.michaz",
+     "name": "Michaz Repository",
+     "host": "michaz1988.github.io"
+    },
+    {
+     "id": "repository.redwizard",
+     "name": "The Red Repo",
+     "host": "repo.redwizard.xyz"
+    },
+    {
+     "id": "repository.resolveurl",
+     "name": "ResolveURL Repository",
+     "host": "raw.githubusercontent.com"
+    },
+    {
+     "id": "repository.roooar",
+     "name": "Repo of all Repositories",
+     "host": "raw.githubusercontent.com"
+    },
+    {
+     "id": "repository.slyguy",
+     "name": "SlyGuy Repository",
+     "host": "slyguy.uk"
+    },
+    {
+     "id": "repository.slyguy.inputstreamhelper",
+     "name": "SlyGuy InputStream Helper Wrapper Repository",
+     "host": "slyguy.uk"
+    },
+    {
+     "id": "repository.thecrew",
+     "name": "THE CREW REPO",
+     "host": "raw.githubusercontent.com"
+    },
+    {
+     "id": "repository.vbprofi",
+     "name": "vbprofis Repository for Kodi 19+",
+     "host": "raw.github.com"
+    },
+    {
+     "id": "repository.zachmorris",
+     "name": "Zach Morris Add-ons",
+     "host": "github.com"
+    }
+   ],
+   "binaries": [
+    "inputstream.adaptive",
+    "inputstream.ffmpegdirect",
+    "inputstream.rtmp",
+    "pvr.iptvsimple",
+    "pvr.stalker"
+   ],
+   "platforms": [
+    "android"
+   ]
   }
  ],
  "repo": {
   "id": "repository.skulls",
-  "version": "2.1.3",
-  "zip": "https://skullsplitter2026.github.io/sKulls.Kodi.Build/repo/repository.skulls-2.1.3.zip",
-  "sha256": "250a3cedefc896d356142c12b35c87febf39935ab5fac18d97fc18bb43cc8e3f",
+  "version": "2.1.4",
+  "zip": "https://skullsplitter2026.github.io/sKulls.Kodi.Build/repo/repository.skulls-2.1.4.zip",
+  "sha256": "c4e2a345b8d2a2e83743d6fa1f1e5c5ecf15377170fb6b50cbe9abe7b59e948f",
   "size": 3091497
  }
 }

@@ -4,9 +4,9 @@
  "name": "sKulls Kodi Build Private",
  "version": "1.10",
  "kodi": "21",
- "built": "2026-10-05 18:53",
+ "built": "2026-10-11 21:27",
  "wizard": "plugin.program.skullskodiwizard",
- "wizard_version": "1.0.27",
+ "wizard_version": "1.0.33",
  "skin": "skin.arctic.zephyr.martian",
  "files": 19382,
  "size": 1051628161,
@@ -17,13 +17,6 @@
    "version": "3.24.2",
    "provider": "Unknown",
    "type": "Untertitel"
-  },
-  {
-   "id": "script.module.accountmgr",
-   "name": "Account Manager Testing",
-   "version": "4.2",
-   "provider": "Zaxxon709, Diggz",
-   "type": "Dienst"
   },
   {
    "id": "script.module.acctvwr",
