@@ -1,11 +1,11 @@
 {
- "name": "[COLOR INDIANRED][B]sKulls[/B][/COLOR] [COLOR GOLD][B]Kodi[/B][/COLOR] [COLOR INDIANRED][B]Wizard[/B][/COLOR]",
- "updated": "2026-10-11 23:10",
+ "name": "[COLOR indianred][B]sKulls[/B][/COLOR] [COLOR gold][B]Kodi[/B][/COLOR] [COLOR indianred][B]Wizard[/B][/COLOR]",
+ "updated": "2026-10-11 23:28",
  "wizard": {
-  "version": "1.0.33",
-  "zip": "https://skullsplitter2026.github.io/sKulls.Kodi.Build/repo/zips/plugin.program.skullskodiwizard/plugin.program.skullskodiwizard-1.0.33.zip",
-  "sha256": "9721f1c1cf4fa0d848d0f362ff1d3a495bd7839291160a5c8160df0ff4e433d4",
-  "size": 4296376,
+  "version": "1.0.34",
+  "zip": "https://skullsplitter2026.github.io/sKulls.Kodi.Build/repo/zips/plugin.program.skullskodiwizard/plugin.program.skullskodiwizard-1.0.34.zip",
+  "sha256": "86b3f88b2f8d5033304f41278019883d045b40be731de0158265ffa33b668d7b",
+  "size": 4296358,
   "news": "Komplett neuer Wizard !!!!"
  },
  "builds": [
