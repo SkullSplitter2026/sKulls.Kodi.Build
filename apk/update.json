@@ -7,15 +7,18 @@
   "changelog_en": "",
   "date": "2026-10-11",
   "apks": {
+    "armeabi-v7a": "https://github.com/SkullSplitter2026/sKulls.Kodi.Build/releases/download/v22.0-RC1-2190901/sKulls_Kodi_Build_v22.0-RC1_armeabi-v7a_signed.apk",
     "arm64-v8a": "https://github.com/SkullSplitter2026/sKulls.Kodi.Build/releases/download/v22.0-RC1-2190901/sKulls_Kodi_Build_v22.0-RC1_arm64-v8a_signed.apk"
   },
   "sha256": {
-    "arm64-v8a": "005f5b487749edc7f3c3da293343a1b1b6032a3252f1d9ee78ad71b2d654a729"
+    "armeabi-v7a": "c3f0786f7cb9ab0365ec9840a0ae33a1e55ec3f892d708e1c9dff8c65a5d9c90",
+    "arm64-v8a": "be47601f7686295ef3a71ab1a47a87bfce26b0f261fc379d4450c76aa3af6c52"
   },
   "size": {
+    "armeabi-v7a": 99096187,
     "arm64-v8a": 102250011
   },
-  "url": "https://github.com/SkullSplitter2026/sKulls.Kodi.Build/releases/download/v22.0-RC1-2190901/sKulls_Kodi_Build_v22.0-RC1_arm64-v8a_signed.apk",
+  "url": "https://github.com/SkullSplitter2026/sKulls.Kodi.Build/releases/download/v22.0-RC1-2190901/sKulls_Kodi_Build_v22.0-RC1_armeabi-v7a_signed.apk",
   "mirrors": [
     "https://skullsplitter2026.github.io/sKulls.Kodi.Build/apk"
   ]
