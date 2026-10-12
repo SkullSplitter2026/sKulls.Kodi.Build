@@ -5375,13 +5375,14 @@ provider-name="jurialmunkey">
 	</extension>
 </addon>
 
-<addon id="plugin.program.skullskodiwizard" name="[COLOR indianred][B]sKulls[/B][/COLOR] [COLOR gold][B]Kodi[/B][/COLOR] [COLOR indianred][B]Wizard[/B][/COLOR]" version="1.0.38" provider-name="[COLOR indianred][B]sKulls[/B][/COLOR] [COLOR gold][B]inc.[/B][/COLOR]">
+<addon id="plugin.program.skullskodiwizard" name="[COLOR indianred][B]sKulls[/B][/COLOR] [COLOR gold][B]Kodi[/B][/COLOR] [COLOR indianred][B]Wizard[/B][/COLOR]" version="1.0.41" provider-name="[COLOR indianred][B]sKulls[/B][/COLOR] [COLOR gold][B]inc.[/B][/COLOR]">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
     </requires>
     <extension point="xbmc.python.script" library="default.py">
         <provides>executable</provides>
     </extension>
+    <extension point="xbmc.python.pluginsource" library="widget.py"/>
     <extension point="xbmc.service" library="service.py" start="login"/>
     <extension point="xbmc.addon.metadata">
         <summary lang="de_DE">[COLOR indianred][B]sKulls[/B][/COLOR] [COLOR gold][B]KODI[/B][/COLOR] [COLOR indianred][B]Wizard[/B][/COLOR]</summary>
